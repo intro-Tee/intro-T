@@ -1,5 +1,5 @@
 - 👋🏾  Hi, I’m Tashi!
-- 💻  I’m interested in tech, media entertainment, education and so much more.
-- 🌱 I’m currently learning HTML/CSS and SQL language.
+- 💻  I’m interested in data analytics, media/entertainment, equal education and so much more.
+- 🌱 I’m currently learning data analytics, HTML/CSS and SQL language.
 - 💞️ I’m looking to connect with supportive individuals excited learn and diversify the tech world. 
-- ✉️  How to reach me is through email.
+- ✉️  How to reach me is through email at tbaisy09@gmail.com
